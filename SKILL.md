@@ -37,7 +37,7 @@ python extract_frames.py --input videos/demo.mp4 --output output/demo/ --start 1
 | 参数 | 说明 | 默认值 |
 |------|------|--------|
 | `--input` | 输入视频文件路径 | 必需 |
-| `--output` | 输出目录 | `./output/demo/frames/` |
+| `--output` | 输出目录 | `./output/文件名/` |
 | `--interval` | 提取间隔（秒） | 1.0 |
 | `--frame-step` | 每N帧提取一次 | None |
 | `--format` | 输出格式（jpg/png） | jpg |

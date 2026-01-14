@@ -19,7 +19,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/skill-video-frame-extractor.git
+git clone https://github.com/xiexikang/skill-video-frame-extractor.git
 cd skill-video-frame-extractor
 
 # 安装依赖
@@ -93,8 +93,8 @@ skill-video-frame-extractor/
 
 | 参数 | 说明 | 默认值 | 示例 |
 |------|------|--------|------|
-| `--input, -i` | 输入视频文件路径（必需） | - | `videos/movie.mp4` |
-| `--output, -o` | 输出目录路径 | `./frames` | `output/extracted/` |
+| `--input, -i` | 输入视频文件路径（必需） | - | `videos/demo.mp4` |
+| `--output, -o` | 输出目录路径 | `./output/文件名` | `output/demo/` |
 | `--interval` | 时间间隔（秒） | `1.0` | `0.5`, `2.0` |
 | `--frame-step` | 帧步长（每N帧提取一次） | `None` | `10`, `30` |
 
@@ -447,7 +447,6 @@ def process_video_pipeline(video_path):
 - **问题反馈**: 请通过GitHub Issues提交问题
 - **功能建议**: 欢迎提出新功能建议和改进意见
 - **技术支持**: 查看文档和常见问题解答
-- **社区讨论**: 参与项目讨论和经验分享
 
 ---
 
