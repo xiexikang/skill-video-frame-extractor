@@ -13,6 +13,9 @@
 - **🔄 批量处理**: 支持批量处理多个视频文件
 - **📐 尺寸调整**: 支持输出图片尺寸调整，优化存储空间
 
+<img width="985" height="803" alt="image" src="https://github.com/user-attachments/assets/96771cb7-9865-4dd6-a30a-7b80b5b03dff" />
+
+
 ## 🚀 快速开始
 
 ### 安装依赖
